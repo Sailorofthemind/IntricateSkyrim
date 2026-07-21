@@ -21,7 +21,7 @@ Fully disable OneDrive and any other programs which hook into user file areas.
 Recommended Settings:
 
 
- Standard Mode: 4k - RTX4090 or greater with 32gb to 64 gb of Ram (will achieve solid 60's exterior.  AMD Ryzen™ 9 9950X3D, 16 cores or equivalent recommended. RTX5090 for over 90 frames exterior. 64 gb of ram and 9950x3d is preferred. 
+ Standard Mode: 4k - RTX4090 or greater with 32gb to 64 gb of Ram (will achieve solid 60's exterior.  AMD Ryzen™ 9 9950X3D, 16 cores or equivalent recommended. RTX5090 for over 75 frames exterior. 64 gb of ram and 9950x3d is preferred. Recommend not leaving chrome or any RAM draining apps open while playing. List uses high output settings and a custon ENB that is designed for detail and pushing the linits of what is possible. 
 
 
 Standard Mode: 1440p -   Minimum AMD Radeon RX 9070 XT or RTX 5070 or RTX 4080. 32 gb of RAM needed. 19-13900k or greater. 
@@ -40,7 +40,7 @@ For optimal experience:
 
 Load Order library: https://loadorderlibrary.com/lists/intricate-skyrim-beta
 
-Final Note: List is high fidelity simonrim experience with almost every location toughed, numerous new enemies lore based and some from oblivion, immersion, extended landmasses and a plethora of quests. Optional additions are provided. Freedomn is encouraged and so, feel free to edit any MCMs to tailor your experience. No support will be given for issues arising from rule 11 aka modifications. The recommended settings for hardware are HIGHLY ENCOURAGED. List does not have repeatable issues and so long as you have the hardware, it will be smooth as all can be.
+Final Note: List is high fidelity simonrim experience with almost every location touched, numerous new enemies lore based and some from oblivion, immersion, extended landmasses and a plethora of quests. Optional additions are provided. Freedomn is encouraged and so, feel free to edit any MCMs to tailor your experience. No support will be given for issues arising from rule 11 aka modifications. The recommended settings for hardware are HIGHLY ENCOURAGED. List does not have repeatable issues and so long as you have the hardware, it will be smooth as all can be.
 
 Have Fun and get ready for the best graphical experience to date. Don't get lost in the details otherwise, a bandit chief will get yah! 
 
