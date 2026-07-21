@@ -34,7 +34,7 @@ Not meeting system minimums will degrade experience. Extensive testing has gone 
 For optimal experience:
 
 1. Do not R11 as everything has its place and R11 risks breaking everything
-2. Do not abuse photomode with stopping and freezing time
+2. Do not abuse photomode with stopping and freezing time; can be used but constantly or rapidly changing weathers or spamming animations is not good overall. 
 3. Save safe practices (autosaves are turned off by defaul). Recommend saving every 15 minutes if out in while or before major dungeons.
 4. VRAM is not supported but if needed, may be used at your own discretion
 
