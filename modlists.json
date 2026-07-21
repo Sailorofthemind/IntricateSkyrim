@@ -1,0 +1,38 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "IntricateSkyrim",
+    "description": "Gameplay and High Fidelity Overhaul built for Stability and Bleeding Edge Graphics and Immersion",
+    "author": "Sailorofthemind",
+    "maintainers": [
+      "github/Sailorofthemind"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "NSFW",
+      "Total Overhaul",
+      "Vanilla+"
+    ],
+    "nsfw": true,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://github.com/user-attachments/assets/fd3baf97-54ea-4ee0-8cfb-ef01d43db643",
+      "readme": "https://github.com/Sailorofthemind/Intricate-Skyrim-/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Intricate Skyrim.wabbajack_1aff7ea9-3f54-4254-972c-8541949b6c15",
+      "machineURL": "intricateskyrim",
+      "discordURL": "https://discord.com/channels/1528803666184765563/1528803668227526848"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "nu9ufdzuupg=",
+      "Size": 85894828679,
+      "NumberOfArchives": 3088,
+      "SizeOfArchives": 318993172165,
+      "NumberOfInstalledFiles": 379114,
+      "SizeOfInstalledFiles": 336453775
+    },
+    "version": "1.0.0"
+  }
+]
