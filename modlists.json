@@ -18,7 +18,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/Sailorofthemind/Intricate-Skyrim-/main/Intricatelogo.webp",
+      "image": "https://raw.githubusercontent.com/Sailorofthemind/IntricateSkyrim/main/Intricatelogo.webp",
       "readme": "https://github.com/Sailorofthemind/Intricate-Skyrim-/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Intricate Skyrim.wabbajack_1aff7ea9-3f54-4254-972c-8541949b6c15",
       "machineURL": "intricateskyrim",
