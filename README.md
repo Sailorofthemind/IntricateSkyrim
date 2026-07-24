@@ -18,6 +18,10 @@ Install BOTH .Net Runtime v6 desktop x64 & .Net Runtime v9 desktop x64 then rest
 
 Fully disable OneDrive and any other programs which hook into user file areas.
 
+Creation Kit: Download creation kit off of steam. Install, and run once. Say yes to download scripts.
+
+ENB Series v504: Download and place within stock game. 
+
 Recommended Settings:
 
 
