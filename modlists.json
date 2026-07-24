@@ -20,18 +20,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Sailorofthemind/IntricateSkyrim/main/Intricatelogo.webp",
       "readme": "https://github.com/Sailorofthemind/IntricateSkyrim/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Intricate Skyrim.wabbajack_1aff7ea9-3f54-4254-972c-8541949b6c15",
+      "download": "https://authored-files.wabbajack.org/Intricate Skyrim.wabbajack_723ab1d3-33cb-4a11-b38a-2ad8a0d3e299",
       "machineURL": "intricateskyrim",
       "discordURL": "https://discord.com/channels/1528803666184765563/1528803668227526848"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "nu9ufdzuupg=",
-      "Size": 85894828679,
-      "NumberOfArchives": 3088,
-      "SizeOfArchives": 318993172165,
-      "NumberOfInstalledFiles": 379114,
-      "SizeOfInstalledFiles": 336453775
+      "Hash": "KZMysCr0H84=",
+      "Size": 16502743732,
+      "NumberOfArchives": 3056,
+      "SizeOfArchives": 330700222883,
+      "NumberOfInstalledFiles": 347366,
+      "SizeOfInstalledFiles": 447669343834
     },
     "version": "1.0.0"
   }
