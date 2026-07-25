@@ -49,3 +49,10 @@ Final Note: List is high fidelity simonrim experience with almost every location
 Have Fun and get ready for the best graphical experience to date. Don't get lost in the details otherwise, a bandit chief will get yah! 
 
 Discord: https://discord.gg/HvzCRbWB7g  sailorofthemind's Intricate
+
+
+HOW TO SET RESOLUTION:
+go into search, type "display", look for sse display tweaks,  than double click and go to ini, 
+set #Resolution=3840x2160 #ResolutionScale=1.00 (or to whatever your screen resolution is)
+
+than save.
