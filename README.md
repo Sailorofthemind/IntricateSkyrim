@@ -9,18 +9,20 @@ Preperation prior to install:
 
 Prior to installing Intricate Skyrim, the following steps.
 
-Set up a 40gb pagefile (40960mb) although 60 gb pagefile is recommended. restart your PC
+1. Set up a 40gb pagefile (40960mb) although 60 gb pagefile is recommended. restart your PC
 
-Install Visual C++ x64
+2. Install Visual C++ x64
 
-Install BOTH .Net Runtime v6 desktop x64 & .Net Runtime v9 desktop x64 then restart your PC
+3. Install BOTH .Net Runtime v6 desktop x64 & .Net Runtime v9 desktop x64 then restart your PC
 
 
-Fully disable OneDrive and any other programs which hook into user file areas.
+4. Fully disable OneDrive and any other programs which hook into user file areas.
 
-Optional: Creation Kit: Download creation kit off of steam. Install, and run once. Say yes to download scripts.
+IMPORTANT PLEASE READ: With new skyrim update, PRESS Windows + R. And enter %LocalAppData% and click ok... than navigate to skyrim special edition folder and delete contentcatalog.txt IF present. This will prevent crashing when starting the list due to new update. 
 
-ENB Series v504: Download and place within stock game. 
+PERFORMANCE OPTIONS ARE INCLUDED, PLEASE FEEL FREE TO UTILIZE INCLUDED TEXTURE DOWNSCALER IN OPTIONS. OPTIONAL ULTRA ENB PRESENT ALSO IN OPTIONALS. MAKE SURE TO READ NOTES.
+
+
 
 Recommended Settings:
 
@@ -29,9 +31,6 @@ Recommended Settings:
 
 
 Standard Mode: 1440p -   Minimum AMD Radeon RX 9070 XT or RTX 5070 or RTX 4080. 32 gb of RAM needed. 19-13900k or greater. 
-
-
- Standard Mode: 1080p - Same requirements as 1440p
 
 Not meeting system minimums will degrade experience. Extensive testing has gone into it with long play sessions and hgh stability. Minimum requirements are highly highly recommended. 
 
@@ -53,6 +52,6 @@ Discord: https://discord.gg/HvzCRbWB7g  sailorofthemind's Intricate
 
 HOW TO SET RESOLUTION:
 go into search, type "display", look for sse display tweaks,  than double click and go to ini, 
-set #Resolution=3840x2160 #ResolutionScale=1.00 (or to whatever your screen resolution is)
+set #Resolution=3840x2160 #ResolutionScale=1.00 (or to whatever your screen resolution is) OR autoresolution included will take care of this
 
 than save.
