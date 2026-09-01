@@ -3,6 +3,11 @@ High Fidelity Gameplay Overhaul with a focus on immersion, challenge and freedom
 <img width="571" height="615" alt="178142-1777500282-1122467262" src="https://github.com/user-attachments/assets/fd3baf97-54ea-4ee0-8cfb-ef01d43db643" />
 
 
+Download wabbajackfile: https://www.nexusmods.com/skyrimspecialedition/mods/178142  
+
+In downloads in NEXUS link 
+
+
 DEVELOPMENT HARDWARE: Following Developed on Alienware Area-51: RTX5090, AMD 9950x3d, 64gb ram, 4gb NVMe 
 
 Preperation prior to install:
