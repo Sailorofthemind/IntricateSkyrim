@@ -32,10 +32,10 @@ PERFORMANCE OPTIONS ARE INCLUDED, PLEASE FEEL FREE TO UTILIZE INCLUDED TEXTURE D
 Recommended Settings:
 
 
- Standard Mode: 4k - RTX4090 or greater with 32gb to 64 gb of Ram (will achieve solid 60's exterior.  AMD Ryzen™ 9 9950X3D, 16 cores or equivalent recommended. RTX5090 for over 75 frames exterior. 64 gb of ram and 9950x3d is preferred. Recommend not leaving chrome or any RAM draining apps open while playing. List uses high output settings and a custom ENB that is designed for detail and pushing the limits of what is possible. 
+ Standard Mode: 4k - RTX4090 or greater with 32gb to 64 gb of Ram (will achieve solid 60's exterior.  AMD Ryzen™ 9 9950X3D, 16 cores or equivalent recommended. RTX5090 for over 75 frames exterior. 64 gb of ram and 9950x3d is preferred. Recommend not leaving chrome or any RAM draining apps open while playing. List uses high output settings and a custom ENB that is designed for detail and pushing the limits of what is possible. CAN USE TEXTURE DOWNSCALER AS WELL) 
 
 
-Standard Mode: 1440p -   Minimum AMD Radeon RX 9070 XT or RTX 5070 or RTX 4080. 32 gb of RAM needed. 19-13900k or greater. 
+Standard Mode: 1440p -   Minimum AMD Radeon RX 9070 XT or RTX 5070 or RTX 4080. 32 gb of RAM needed. 19-13900k or greater. 64 gb of ram recommended (CAN USE TEXTURE DOWNSCALER AS WELL) 
 
 Not meeting system minimums will degrade experience. Extensive testing has gone into it with long play sessions and hgh stability. Minimum requirements are highly highly recommended. 
 
@@ -46,7 +46,7 @@ For optimal experience:
 3. Save safe practices (autosaves are turned off by defaul). Recommend saving every 15 minutes if out in while or before major dungeons.
 4. Texture compressions tools is not supported but if needed, may be used at your own discretion
 
-Load Order library: https://loadorderlibrary.com/lists/intricate-skyrim-beta
+Load Order library: [https://loadorderlibrary.com/lists/intricate-skyrim-beta](https://loadorderlibrary.com/lists/intricate-skyrim-2-0)
 
 Final Note: List is high fidelity simonrim experience with almost every location touched, numerous new enemies lore based and some from oblivion, immersion, extended landmasses and a plethora of quests. Optional additions are provided. Freedomn is encouraged and so, feel free to edit any MCMs to tailor your experience. No support will be given for issues arising from rule 11 aka modifications. The recommended settings for hardware are HIGHLY ENCOURAGED. List does not have repeatable issues and so long as you have the hardware, it will be smooth as all can be.
 
