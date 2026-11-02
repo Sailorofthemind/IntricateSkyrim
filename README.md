@@ -36,8 +36,9 @@ Recommended Settings:
 
  <img width="1518" height="400" alt="178142-1793036938-1580438277" src="https://github.com/user-attachments/assets/cb55933b-1863-46d6-a67f-901dca38344f" />
 
+https://staticdelivery.nexusmods.com/mods/1704/images/178142/178142-1787973574-1902675938.jpg
 
-
+https://staticdelivery.nexusmods.com/mods/1704/images/178142/178142-1793037813-760664669.png
 
 For optimal experience:
 
