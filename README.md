@@ -36,7 +36,11 @@ Recommended Settings:
 
  <img width="1518" height="400" alt="178142-1793036938-1580438277" src="https://github.com/user-attachments/assets/cb55933b-1863-46d6-a67f-901dca38344f" />
 
-https://staticdelivery.nexusmods.com/mods/1704/images/178142/178142-1787973574-1902675938.jpg
+ <img width="1071" height="180" alt="178142-1787973574-1902675938" src="https://github.com/user-attachments/assets/c7afa230-487a-43a8-bc31-8123bb9c2871" />
+
+
+<img width="3838" height="2133" alt="178142-1793037813-760664669" src="https://github.com/user-attachments/assets/5fdb90a1-b0a6-4a9a-b893-c1ceeaa49000" />
+
 
 https://staticdelivery.nexusmods.com/mods/1704/images/178142/178142-1793037813-760664669.png
 
