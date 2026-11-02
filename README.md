@@ -42,7 +42,7 @@ Recommended Settings:
 <img width="3838" height="2133" alt="178142-1793037813-760664669" src="https://github.com/user-attachments/assets/5fdb90a1-b0a6-4a9a-b893-c1ceeaa49000" />
 
 
-https://staticdelivery.nexusmods.com/mods/1704/images/178142/178142-1793037813-760664669.png
+Discord Link: https://discord.gg/guApbj4dzd
 
 For optimal experience:
 
