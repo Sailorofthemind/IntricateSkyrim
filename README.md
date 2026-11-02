@@ -34,10 +34,10 @@ Recommended Settings:
 
  Standard Mode: 4k - RTX4090 or greater with 32gb to 64 gb of Ram (will achieve solid 60's exterior.  AMD Ryzen™ 9 9950X3D, 16 cores or equivalent recommended. RTX5090 for over 75 frames exterior. 64 gb of ram and 9950x3d is preferred. Recommend not leaving chrome or any RAM draining apps open while playing. List uses high output settings and a custom ENB that is designed for detail and pushing the limits of what is possible. CAN USE TEXTURE DOWNSCALER AS WELL) 
 
+ <img width="1518" height="400" alt="178142-1793036938-1580438277" src="https://github.com/user-attachments/assets/cb55933b-1863-46d6-a67f-901dca38344f" />
 
-Standard Mode: 1440p -   Minimum AMD Radeon RX 9070 XT or RTX 5070 or RTX 4080. 32 gb of RAM needed. 19-13900k or greater. 64 gb of ram recommended (CAN USE TEXTURE DOWNSCALER AS WELL) 
 
-Not meeting system minimums will degrade experience. Extensive testing has gone into it with long play sessions and hgh stability. Minimum requirements are highly highly recommended. 
+
 
 For optimal experience:
 
